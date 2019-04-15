@@ -1,0 +1,7 @@
+h1{
+    background-color: green;
+}
+.text{
+    color: red; /* Цвет символа */
+    font-size: 200%; /* Размер шрифта */
+}
